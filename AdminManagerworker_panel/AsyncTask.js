@@ -24,7 +24,7 @@ var mAsyncAjax = new AsyncTask(onPreExecute,ajaxObj,onPostExecute);
 if(mAsyncTask.exists){
 	mAsyncTask.execute();
 }
-------------coded by j0y-----------------*/
+
 
 
 
